@@ -1,0 +1,1 @@
+Importa o extrato da CAIXA Econômica Federal no formato OFC, para um arquivo TXT no padrão lido pelo MoneyLog (http://aurelio.net/moneylog/).
